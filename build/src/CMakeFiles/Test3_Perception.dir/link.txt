@@ -1,0 +1,1 @@
+/usr/bin/c++   -W -Wall  -std=c++0x -O3 -fopenmp    CMakeFiles/Test3_Perception.dir/Test3_Perception.cpp.o  -o ../bin/Test3_Perception  -L/root/nfs_client/EE212_Rob/build/lib -rdynamic -lAR_cpp -lAR -lARMulti -lboost_system -lboost_thread -lpthread -lopencv_core -lopencv_highgui -lopencv_imgproc -Wl,-rpath,/root/nfs_client/EE212_Rob/build/lib 

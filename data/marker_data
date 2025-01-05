@@ -1,0 +1,57 @@
+#the number of patterns to be recognized
+7
+# type
+# name
+# width
+# center position
+# rotation x y z
+# translation x y z
+word
+A
+../data/multi/patt.a
+40.0
+0.0 0.0
+0.0 0.0 0.0
+0.0 0.0 0.0
+word
+B
+../data/multi/patt.b
+40.0
+0.0 0.0
+0.0 0.0 0.0
+0.0 0.0 0.0
+word
+C
+../data/multi/patt.c
+40.0
+0.0 0.0
+0.0 0.0 0.0
+0.0 0.0 0.0
+word
+D
+../data/multi/patt.d
+40.0
+0.0 0.0
+0.0 0.0 0.0
+0.0 0.0 0.0
+word
+F
+../data/multi/patt.f
+40.0
+0.0 0.0
+0.0 0.0 0.0
+0.0 0.0 0.0
+word
+G
+../data/multi/patt.g
+40.0
+0.0 0.0
+0.0 0.0 0.0
+0.0 0.0 0.0
+word
+KANJI
+../data/multi/patt.kanji
+40.0
+0.0 0.0
+0.0 0.0 0.0
+0.0 0.0 0.0

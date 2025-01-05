@@ -1,0 +1,1 @@
+/usr/bin/c++   -W -Wall  -std=c++0x -O3 -fopenmp    CMakeFiles/Test4_Sound.dir/Test4_Sound.cpp.o  -o ../bin/Test4_Sound  -L/root/nfs_client/EE212_Rob/build/lib -rdynamic -lboost_system -lboost_thread -lpthread -Wl,-rpath,/root/nfs_client/EE212_Rob/build/lib 

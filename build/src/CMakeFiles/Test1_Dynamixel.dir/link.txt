@@ -1,0 +1,1 @@
+/usr/bin/c++   -W -Wall  -std=c++0x -O3 -fopenmp    CMakeFiles/Test1_Dynamixel.dir/Test1_Dynamixel.cpp.o  -o ../bin/Test1_Dynamixel  -L/root/nfs_client/EE212_Rob/build/lib -rdynamic -lboost_system -lboost_thread -lpthread -Wl,-rpath,/root/nfs_client/EE212_Rob/build/lib 

@@ -1,0 +1,26 @@
+1. Install opencv
+- sudo apt-get install libopencv-dev
+
+2. Install boost
+- sudo apt-get install libboost-dev
+
+3. Make build folder inside RIT_ARToolkit
+
+4. Go to build folder, do 'cmake ..' and 'make'
+- cmake ..
+- make
+
+4. Connect camera
+
+5. Print marker_for_print.pdf
+
+[For Host PC]
+6. Execute HostPCWrapperTest
+- ./bin/HostPCWrapperTest
+  (If you want to quit, press 'q')
+
+[For BBB]
+6. Execute BBBWrapperTest
+- ./bin/BBBWrapperTest
+  (If you want to quit, press ctrl + c)
+

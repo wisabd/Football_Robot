@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/nfs_client/EE212_Rob/src/Sound.hpp
+iostream
+-
+ctime
+-
+boost/scoped_ptr.hpp
+-
+boost/thread.hpp
+-
+
+/root/nfs_client/EE212_Rob/src/SoundTest.hpp
+Sound.hpp
+/root/nfs_client/EE212_Rob/src/Sound.hpp
+
+/root/nfs_client/EE212_Rob/src/Test4_Sound.cpp
+csignal
+-
+SoundTest.hpp
+/root/nfs_client/EE212_Rob/src/SoundTest.hpp
+

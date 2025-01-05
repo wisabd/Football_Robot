@@ -1,0 +1,20 @@
+cmake_minimum_required(VERSION 2.6)
+project(EE212)
+
+
+set(EE212_OUTPUT_LIB_DIR ${EE212_BINARY_DIR}/lib)
+set(EE212_OUTPUT_BIN_DIR ${EE212_BINARY_DIR}/bin)
+
+make_directory(${EE212_OUTPUT_LIB_DIR})
+make_directory(${EE212_OUTPUT_BIN_DIR})
+
+set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY "${EE212_OUTPUT_LIB_DIR}")
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${EE212_OUTPUT_BIN_DIR}")
+set(CMAKE_LIBRARY_OUTPUT_DIRECTORY "${EE212_OUTPUT_LIB_DIR}")
+
+add_subdirectory(modules)
+add_subdirectory(src)
+
+set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "${CMAKE_SOURCE_DIR}/cmake/module")
+
+

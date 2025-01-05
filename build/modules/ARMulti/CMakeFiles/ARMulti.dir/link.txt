@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libARMulti.a  CMakeFiles/ARMulti.dir/arMultiReadConfigFile.c.o CMakeFiles/ARMulti.dir/arMultiGetTransMat.c.o CMakeFiles/ARMulti.dir/arMultiActivate.c.o
+/usr/bin/ranlib ../../lib/libARMulti.a

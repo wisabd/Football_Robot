@@ -1,0 +1,11 @@
+/root/nfs_client/EE212_Rob/build/modules/AR/CMakeFiles/AR.dir
+/root/nfs_client/EE212_Rob/build/modules/ARMulti/CMakeFiles/ARMulti.dir
+/root/nfs_client/EE212_Rob/build/modules/ARCppWrapper/CMakeFiles/AR_cpp.dir
+/root/nfs_client/EE212_Rob/build/src/CMakeFiles/Test1_Dynamixel.dir
+/root/nfs_client/EE212_Rob/build/src/CMakeFiles/Test2_Servo.dir
+/root/nfs_client/EE212_Rob/build/src/CMakeFiles/Test3_Perception.dir
+/root/nfs_client/EE212_Rob/build/src/CMakeFiles/Test4_Sound.dir
+/root/nfs_client/EE212_Rob/build/src/CMakeFiles/Test5_BehDesign.dir
+/root/nfs_client/EE212_Rob/build/src/CMakeFiles/Test6_BehMapping.dir
+/root/nfs_client/EE212_Rob/build/src/CMakeFiles/Test7_IntStateDesign.dir
+/root/nfs_client/EE212_Rob/build/src/CMakeFiles/Test8_Android.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libAR_cpp.a  CMakeFiles/AR_cpp.dir/ARToolKitLib.cpp.o
+/usr/bin/ranlib ../../lib/libAR_cpp.a
