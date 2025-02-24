@@ -7,7 +7,7 @@ The Robot can move in 4 directions, pick and drop a ball
 - CMake Build systems
 - Android API
 
-##Pictures of Robot and Robot Kit
+## Pictures of Robot and Robot Kit
 
 ![20161209_141017](https://github.com/user-attachments/assets/7bd83fdb-13d6-4e02-b859-4a072e90ded6)
 ![20160920_173444](https://github.com/user-attachments/assets/c5a64826-b6e9-4ca7-b1cd-6aba8a24ae64)
