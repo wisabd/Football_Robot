@@ -3,7 +3,7 @@ This is the final project for the course Electronics Design and Practice. It is 
 The Robot can move in 4 directions, pick and drop a ball
 
 ## Technologies Used
-- C++
+- C/C++
 - CMake Build systems
 - Android API
 
